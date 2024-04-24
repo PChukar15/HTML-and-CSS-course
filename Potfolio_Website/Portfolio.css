@@ -76,6 +76,7 @@ img:hover {
 footer {
     padding: 2%;
     background-color: #008b8b;
+    min-width: 100%;
 }
 
 .navbar {
