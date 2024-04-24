@@ -4,9 +4,9 @@ This repository is for all of my projects completed during the html and CSS cour
 
 
 <h1>Projects</h1>
-- Space Station site
-- Movie Theatre site
-- Fallout Fan Site
+- Space Station site<br>
+- Movie Theatre site<br>
+- Fallout Fan Site<br>
 - Portfolio Site
 
 <h1>Space Station Site</h1>
